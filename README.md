@@ -121,13 +121,9 @@ npm run preview
 
 ---
 
-## 🌐 Deployment
+## 🌐 Deployment 
 
-### Option 1: **Lovable (Recommended)**
-1. Open your project on [Lovable](https://lovable.dev/projects/b357e92e-7ec4-4a30-8d1e-b1dbc74793cc)  
-2. Click **Share → Publish** to deploy automatically  
-
-### Option 2: **Manual Deployment**
+### Option 1: **Manual Deployment**
 Use your preferred platform:
 - **Netlify**
 - **Vercel**

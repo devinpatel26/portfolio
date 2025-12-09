@@ -3,7 +3,7 @@
 A **modern, responsive, and animated personal portfolio** built using **React + TypeScript**, styled with **Tailwind CSS** & **shadcn/ui**, and powered by **Vite** for a blazing-fast development experience.  
 Designed to showcase **skills, projects, experience, and contact information** with a clean UI and smooth animations.
 
-🔗 **Live Demo:** [https://lovable.dev/projects/b357e92e-7ec4-4a30-8d1e-b1dbc74793cc](https://lovable.dev/projects/b357e92e-7ec4-4a30-8d1e-b1dbc74793cc)
+🔗 **Live Demo:** [https://portfolio-snowy-six-7x2zhhlu0x.vercel.app/](https://portfolio-snowy-six-7x2zhhlu0x.vercel.app/)
 
 ---
 
@@ -176,6 +176,6 @@ Using or reselling this as a public template without permission is **not allowed
 
 **Devin Patel**
 
-- 🌐 **Portfolio:** [Live Project](https://lovable.dev/projects/b357e92e-7ec4-4a30-8d1e-b1dbc74793cc)  
+- 🌐 **Portfolio:** [Live Project](https://portfolio-snowy-six-7x2zhhlu0x.vercel.app/)  
 - 💻 **GitHub:** [https://github.com/devinpatel26](https://github.com/devinpatel26)  
 - 🔗 **LinkedIn:** [https://www.linkedin.com/in/devin-patel-1b3464290/](https://www.linkedin.com/in/devin-patel-1b3464290/)
